@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrKouk.Shared.Mobile.Dtos", "GrKouk.Shared.Mobile.Dtos\GrKouk.Shared.Mobile.Dtos.csproj", "{E81F9585-58F3-4552-A7F8-9C02CF72A0AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrKouk.Shared.Core", "GrKouk.Shared.Core\GrKouk.Shared.Core.csproj", "{F02F3DC9-6825-4BA6-A485-786BB800AC2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrKouk.Shared.Core", "GrKouk.Shared.Core\GrKouk.Shared.Core.csproj", "{F02F3DC9-6825-4BA6-A485-786BB800AC2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrKouk.Shared.Definitions", "GrKouk.Shared.Definitions\GrKouk.Shared.Definitions.csproj", "{0821ABE7-4E46-4B1E-8440-92B199D075CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F02F3DC9-6825-4BA6-A485-786BB800AC2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F02F3DC9-6825-4BA6-A485-786BB800AC2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F02F3DC9-6825-4BA6-A485-786BB800AC2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0821ABE7-4E46-4B1E-8440-92B199D075CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0821ABE7-4E46-4B1E-8440-92B199D075CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0821ABE7-4E46-4B1E-8440-92B199D075CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0821ABE7-4E46-4B1E-8440-92B199D075CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
