@@ -8,4 +8,5 @@
         public string AltAttribute { get; set; }
         public string TitleAttribute { get; set; }
     }
+
 }
